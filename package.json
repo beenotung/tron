@@ -1,0 +1,22 @@
+{
+  "name": "tron",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node src/main.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "engine.io": "^3.3.2",
+    "engine.io-client": "^3.3.2",
+    "s-js": "^0.4.9",
+    "ts-liveview": "^1.1.0"
+  },
+  "devDependencies": {
+    "ts-node": "^8.10.2",
+    "typescript": "^3.9.7"
+  }
+}
